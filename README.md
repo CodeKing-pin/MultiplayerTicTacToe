@@ -28,7 +28,6 @@ The `app.js` file includes the following main functions:
 - Winner declaration
 - Draw detection
 - Game reset and new game options
-
-- 
+ 
 
 
