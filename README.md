@@ -30,13 +30,5 @@ The `app.js` file includes the following main functions:
 - Game reset and new game options
 
 - 
-## Project Structure
 
-tic-tac-toe/
-│   index.html
-│   README.md
-├── css/
-│   └── styles.css
-└── js/
-└── app.js
 
